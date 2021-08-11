@@ -1,0 +1,12 @@
+.container{
+    background-color: yellow;
+    padding: 20px;
+    margin-top: 5%;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: black
+}
